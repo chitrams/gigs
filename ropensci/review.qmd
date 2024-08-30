@@ -5,3 +5,5 @@ Comments for suggestions, feel free to leave or take:
 -   You have to type the whole standard out before the conversion. I think I would be thinking about the conversion first: `val2z`, `val2centile`, `z2val`, and `centile2val`, then the standard name can be an option in the function call?
     -   Also just leads to unwieldy function name, it is quite long.
 -   Same with above but more nitpicky, would it be annoying to type the whole thing (`value`) over and over again before picking `zscore` or `centile`? might be easier to do `val2z`.
+-   Potential issue with readme.md is exclamation mark emoji is white, may be hard to read on white background (！)
+-   Have you considered submitting your code to [Zenodo](https://zenodo.org/)? It's an open data repository operated by CERN. Submitting your code to Zenodo means you'll [get a persistent digital object identifier (DOI)](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content), which means your code will be more easily cited in academic contexts. [Here](https://help.zenodo.org/docs/get-started/) are some instructions on getting started.
