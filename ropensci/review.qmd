@@ -1,0 +1,7 @@
+Comments for suggestions, feel free to leave or take:
+
+-   I wonder if it would be annoying for users to type the standard before the conversion?
+    -   There are three beginning with `ig_`, perhaps better to be named `nbs_ig`, `png_ig` and `fet_ig` instead?
+-   You have to type the whole standard out before the conversion. I think I would be thinking about the conversion first: `val2z`, `val2centile`, `z2val`, and `centile2val`, then the standard name can be an option in the function call?
+    -   Also just leads to unwieldy function name, it is quite long.
+-   Same with above but more nitpicky, would it be annoying to type the whole thing (`value`) over and over again before picking `zscore` or `centile`? might be easier to do `val2z`.
